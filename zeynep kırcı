@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="macbook-pro" data-model-id="2015:57">
+      <div class="div">
+        <div class="overlap">
+          <div class="text-wrapper">Zeynep Kırcı</div>
+          <p class="ben-zeynep-k-rc">
+            Ben Zeynep Kırcı. İstanbul Ticaret Üniversitesi, İletişim Fakültesi Görsel İletişim Tasarımı Bölümü üçüncü
+            sınıf öğrencisiyim. Lisans eğitimim devam ederken iş hayatına adım atmayı amaçlıyorum. <br /><br />Adobe
+            Photoshop, Adobe Premiere Pro, Adobe After Effects, Adobe Illustrator programlarını ileri düzeyde hakimim.
+            Figma, Blender, DaVinci Resolve programlarına hakimim. <br /><br />Stüdyo fotoğrafçılığı alanında deneyimim
+            var; ışık, kompozisyon ve ekipman kullanımı konusunda uygulamalı çalışmalar gerçekleştirdim. Görsel iletişim
+            alanındaki teknik bilgi ve pratik becerilerimi projelerle pekiştirerek kendimi geliştirmeye devam ediyorum.
+          </p>
+        </div>
+        <div class="overlap-group">
+          <div class="overlap-2">
+            <img class="ekran-resmi" src="https://c.animaapp.com/LGZlXuGG/img/ekran-resmi-2025-05-08-23-54-50-1.png" />
+            <img
+              class="whatsapp-video"
+              src="https://c.animaapp.com/LGZlXuGG/img/whatsapp-video-2025-05-08-at-23-45-32-mp4-1.gif"
+            />
+            <div class="group">
+              <div class="overlap-group-2">
+                <img class="rectangle" src="https://c.animaapp.com/LGZlXuGG/img/rectangle-7.svg" />
+                <div class="text-wrapper-2">Blender</div>
+                <p class="p">
+                  Blender ile yapılan bu 3D animasyon, modelleme ve render araçları kullanılarak tasarlanmış, görsel
+                  olarak zengin bir içerik sunmaktadır. Işıklandırma, kamera açıları ve materyal düzenlemeleriyle görsel
+                  derinliği artırılan animasyon, hikaye anlatımını güçlendiriyor.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="text-wrapper-3">3D Blender</div>
+        </div>
+        <div class="overlap-3">
+          <div class="overlap-4">
+            <div class="group-2">
+              <div class="rectangle-2"></div>
+              <div class="ellipse"></div>
+              <div class="ellipse-2"></div>
+            </div>
+            <div class="overlap-wrapper">
+              <div class="overlap-5">
+                <img class="plant" src="https://c.animaapp.com/LGZlXuGG/img/plant-2@2x.png" />
+                <div class="text-wrapper-4">Planto.</div>
+              </div>
+            </div>
+            <div class="text-wrapper-5">Home</div>
+            <div class="text-wrapper-6">Type’s Of plant’s</div>
+            <div class="rectangle-3"></div>
+            <div class="text-wrapper-7">Enter Email</div>
+            <img class="exclude" src="https://c.animaapp.com/LGZlXuGG/img/exclude.svg" />
+            <div class="rectangle-4"></div>
+            <div class="ellipse-3"></div>
+            <div class="ellipse-4"></div>
+            <img class="img" src="https://c.animaapp.com/LGZlXuGG/img/ellipse-6.svg" />
+            <div class="ellipse-5"></div>
+            <div class="ellipse-6"></div>
+            <div class="ellipse-7"></div>
+            <div class="rectangle-5"></div>
+            <div class="rectangle-6"></div>
+            <div class="rectangle-7"></div>
+            <p class="text-wrapper-8">
+              Cam objeler, yemek sunumları, koku ürünleri ve çantalar üzerinde tematik stüdyo çekimleri gerçekleştirdim.
+              Işık kullanımı, kompozisyon ve materyal yüzey etkileşimlerine odaklanarak teknik ve yaratıcı görsel
+              içerikler ürettim.
+            </p>
+            <div class="buttons-text-in"><div class="go-back">Fotoğraflara ulaşın!</div></div>
+            <p class="text-wrapper-9">
+              Green screen replacement tekniği kullanarak kurguladığım reklam videosunda, arka planı dijital olarak
+              değiştirme yöntemiyle görsel anlatımı güçlendirdim.
+            </p>
+            <div class="text-wrapper-10">STÜDYO FOTOĞRAFLARIM</div>
+            <div class="rectangle-8"></div>
+            <div class="text-wrapper-11">BENCHMARK</div>
+            <div class="text-wrapper-12">After Effects</div>
+            <img class="frame" src="https://c.animaapp.com/LGZlXuGG/img/frame-2-1.png" />
+            <p class="kitchen-stories">
+              Kitchen Stories, Tasty, Nefis Yemek Tarifleri ve Yemek.com uygulamalarının görsel iletişim ve kullanıcı
+              arayüzü tasarımlarını karşılaştırmayı amaçlayan bir benchmark analizidir. <br /><br />Uygulamalar; renk
+              paleti, görsel tutarlılık, kullanıcı arayüzü tasarımı ve SWOT analizi gibi kriterler üzerinden
+              incelenmiştir. Elde edilen bulgular, kullanıcı deneyimini iyileştirmek ve görsel tutarlılığı artırmak
+              adına tasarım stratejilerinin yeniden yapılandırılmasına yönelik öneriler sunmaktadır.
+            </p>
+            <img class="frame-2" src="https://c.animaapp.com/LGZlXuGG/img/frame-6.jpg" />
+            <img
+              class="ekran-resmi-2"
+              src="https://c.animaapp.com/LGZlXuGG/img/ekran-resmi-2025-05-08-23-29-42@2x.png"
+            />
+          </div>
+          <div class="go-back-wrapper"><div class="go-back-2">Videoya ulaşın!</div></div>
+        </div>
+        <img class="rectangle-9" src="img/rectangle-34.svg" />
+        <p class="yemek-tarifleri">
+          <span class="span">Yemek Tarifleri Mobil Uygulama Tasarımı<br /></span>
+          <span class="text-wrapper-13"><br /></span>
+          <span class="text-wrapper-14">UX/UI Case Study</span>
+        </p>
+        <p class="element-sayfal-k-bir">
+          30 sayfalık bir yemek tarifleri uygulaması tasarladım. Uygulama, kullanıcı deneyimini merkeze alan sade ve
+          minimalist bir arayüz yapısına sahip. Renk paleti üç ana renkten oluşuyor; bu da görsel hiyerarşi ve marka
+          bütünlüğünü destekliyor. Regular font kullanarak tipografik kontrastı düşük tuttum. <br /><br />Navigasyon
+          yapısını kullanıcı akışlarına göre kurguladım. Tarif kartları, içerik hiyerarşisi ve grid sistemi üzerinde
+          çalışarak dengeli ve erişilebilir bir ekran tasarımı geliştirdim. Bu projeyle yalnızca estetik değil, aynı
+          zamanda kullanılabilirlik ve erişilebilirlik odaklı bir dijital ürün tasarlamayı amaçladım.
+        </p>
+        <div class="overlap-6">
+          <div class="rectangle-10"></div>
+          <div class="ellipse-8"></div>
+          <div class="ellipse-9"></div>
+          <div class="ellipse-10"></div>
+          <div class="ellipse-11"></div>
+          <div class="group-wrapper">
+            <div class="group-3">
+              <div class="overlap-group-wrapper">
+                <div class="minimalist-ve-kullan-wrapper">
+                  <p class="minimalist-ve-kullan">Minimalist ve Kullanıcı Odaklı Arayüz <br />(User-Centered UI)</p>
+                </div>
+              </div>
+              <div class="group-4">
+                <div class="sezgisel-navigasyon-wrapper">
+                  <p class="sezgisel-navigasyon">Sezgisel Navigasyon ve Bilgi Mimarisi <br />(Intuitive Navigation)</p>
+                </div>
+              </div>
+              <div class="group-5">
+                <div class="etkile-imli-wrapper">
+                  <p class="etkile-imli">
+                    Etkileşimli Özellikler ve Kişiselleştirme (Interactive &amp; Personalized Experience)
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="ellipse-12"></div>
+          <div class="rectangle-11"></div>
+          <div class="text-wrapper-15">Arayüz</div>
+          <p class="text-wrapper-16">
+            Minimal tasarım prensipleriyle geliştirilen arayüz, sade ikonografi, dengeli boşluk kullanımı ve tutarlı
+            bileşen yapısıyla temiz, odaklı ve erişilebilir bir kullanıcı deneyimi sunar.
+          </p>
+          <img class="account-setting" src="https://c.animaapp.com/LGZlXuGG/img/account-setting@2x.png" />
+          <img class="bookmarks" src="https://c.animaapp.com/LGZlXuGG/img/bookmarks-1@2x.png" />
+          <img class="calendar" src="https://c.animaapp.com/LGZlXuGG/img/calendar@2x.png" />
+          <img class="edit-profile" src="https://c.animaapp.com/LGZlXuGG/img/edit-profile@2x.png" />
+          <img class="error-page" src="https://c.animaapp.com/LGZlXuGG/img/error-page@2x.png" />
+          <img class="forgot-password" src="https://c.animaapp.com/LGZlXuGG/img/forgot-password@2x.png" />
+          <img class="home" src="https://c.animaapp.com/LGZlXuGG/img/home-screen1@2x.png" />
+          <img class="login-registration" src="https://c.animaapp.com/LGZlXuGG/img/login-registration@2x.png" />
+          <img class="membership" src="https://c.animaapp.com/LGZlXuGG/img/membership@2x.png" />
+          <img class="preferences" src="https://c.animaapp.com/LGZlXuGG/img/preferences@2x.png" />
+          <img class="profil-duzenle" src="https://c.animaapp.com/LGZlXuGG/img/profil-du-zenle@2x.png" />
+          <img class="recipe" src="https://c.animaapp.com/LGZlXuGG/img/recipe@2x.png" />
+          <img class="recipes-new-recipe" src="https://c.animaapp.com/LGZlXuGG/img/recipes-new-recipe-1@2x.png" />
+          <img class="recipes-plus" src="https://c.animaapp.com/LGZlXuGG/img/recipes-plus@2x.png" />
+          <img class="register" src="https://c.animaapp.com/LGZlXuGG/img/register@2x.png" />
+          <img class="search-screen" src="https://c.animaapp.com/LGZlXuGG/img/search-screen@2x.png" />
+          <img class="settings" src="https://c.animaapp.com/LGZlXuGG/img/settings@2x.png" />
+          <img class="soup" src="https://c.animaapp.com/LGZlXuGG/img/soup@2x.png" />
+          <img class="snack" src="https://c.animaapp.com/LGZlXuGG/img/snack@2x.png" />
+          <img class="soup-2" src="https://c.animaapp.com/LGZlXuGG/img/soup-1@2x.png" />
+          <img class="calendar-screen" src="https://c.animaapp.com/LGZlXuGG/img/calendar-screen@2x.png" />
+          <img class="login-registration-2" src="https://c.animaapp.com/LGZlXuGG/img/login-registration-1@2x.png" />
+        </div>
+        <p class="after-effects-i">
+          After Effects&#39;i temel düzeyde kullanarak oluşturduğum bu basit tanıtım reklamında, temel animasyon
+          teknikleri ve geçiş efektleriyle görsel akış sağladım.
+        </p>
+        <div class="div-wrapper"><div class="go-back-2">Videoya ulaşın!</div></div>
+        <p class="text-wrapper-17">
+          Kompleks şekiller kullanarak kurguladığım Spotify geçiş videom. Dinamik görsel öğeler ve akışkan şekil
+          düzenlemeleri kullandım.
+        </p>
+        <div class="buttons-text-in-2"><div class="go-back-2">Videoya ulaşın!</div></div>
+        <div class="ekran-resmi-wrapper">
+          <img class="ekran-resmi-3" src="https://c.animaapp.com/LGZlXuGG/img/ekran-resmi-2025-05-08-23-27-46@2x.png" />
+        </div>
+        <div class="img-wrapper">
+          <img class="ekran-resmi-4" src="https://c.animaapp.com/LGZlXuGG/img/ekran-resmi-2025-05-08-23-28-07@2x.png" />
+        </div>
+        <div class="text-wrapper-18">SHOWREEL</div>
+        <img class="zeynep-krc-kopyas" src="https://c.animaapp.com/LGZlXuGG/img/zeynep-k-rc--kopyas--mp4-1.gif" />
+        <p class="zeynep-k-rc-n-n-g">Zeynep Kırcı’nın <br />Görsel Tasarım Portföyü</p>
+        <div class="linked-frame"><p class="text-wrapper-19">tasarımlarımı görmek için aşağı kaydırın</p></div>
+        <div class="overlap-7">
+          <div class="rectangle-12"></div>
+          <div class="ellipse-13"></div>
+          <div class="ellipse-14"></div>
+          <div class="ellipse-15"></div>
+          <div class="ellipse-16"></div>
+          <div class="rectangle-13"></div>
+          <div class="group-6">
+            <div class="overlap-8">
+              <img class="rectangle-14" src="https://c.animaapp.com/LGZlXuGG/img/rectangle-7-4.svg" />
+              <p class="text-wrapper-20">Tüm çalışmalarıma sesleri ile birlikte buradan ulaşabilirsiniz.</p>
+              <a
+                href="https://www.dropbox.com/scl/fo/37rakaodaf6kb0mky01ym/ADbkk0ongT-KEtDWCkw_W9U?rlkey=y1vzff6l4swit71rm139fpath&st=m2xhqol6&dl=0"
+                target="_blank"
+                rel="noopener noreferrer"
+                ><div class="buttons-text-in-3"><div class="go-back-3">Arşiv</div></div></a
+              >
+            </div>
+          </div>
+        </div>
+        <div class="overlap-9">
+          <a
+            href="https://www.dropbox.com/scl/fo/37rakaodaf6kb0mky01ym/ADbkk0ongT-KEtDWCkw_W9U?rlkey=y1vzff6l4swit71rm139fpath&st=m2xhqol6&dl=0"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><div class="text-wrapper-21">Archive</div></a
+          >
+          <div class="text-wrapper-22">CV</div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
